@@ -19,4 +19,4 @@ This project leverages various Azure services and Terraform for infrastructure a
 
 For more detailed information, refer to the individual configuration files.
 
-**Blog Article can be found here: [Azure Hackathon Vending with Terraform](https://luke.geek.nz/azure/hackathon-vending-project/).
+**Blog Article can be found here: [Azure Hackathon Vending with Terraform](https://luke.geek.nz/azure/hackathon-vending-project/).**
